@@ -1,5 +1,4 @@
-#This is left sidebar
+<!-- docs/_sidebar.md -->
 
-##Here is the description
-
-```Yo bitch
+* [Home](/)
+* [Guide](_guide.md)
