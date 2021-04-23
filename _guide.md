@@ -2,7 +2,7 @@
 
 Now you are at the second page of this shit
 
-```
+```javascript
 function function_name(argument) {
 	alert('BLASE')
 }
